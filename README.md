@@ -1,11 +1,11 @@
-# data-report
+# Data-report
 
-# author
+# Author
 Lewis Isaac Chan // source code for MMB8052 Bioinformatics data report
 180030622 
 26/01/23
 
-# process
+# Process
 One script containing the entire process. Outline of sections: 
 - Installation of data
 - Preparing count data 
@@ -16,14 +16,14 @@ One script containing the entire process. Outline of sections:
 - Generating MA plot
 - Generating four-way plot
 
-# data
+# Data
 Information about the dataset: [https://doi.org/10.1111/ajt.15751](https://doi.org/10.1111/ajt.15751)
 
 Downloading the RNA-Seq data for GSE116538: [https://ftp.ncbi.nlm.nih.gov/geo/series/GSE116nnn/GSE116583/soft/GSE116583_family.soft.gz](https://ftp.ncbi.nlm.nih.gov/geo/series/GSE116nnn/GSE116583/soft/GSE116583_family.soft.gz) 
 
 Downloading the count data used in this report: [https://github.com/sjcockell/mmb8052/raw/main/practicals/practical_08/results/counts.zip](https://github.com/sjcockell/mmb8052/raw/main/practicals/practical_08/results/counts.zip)
 
-# software
+# Software
 Software
 - R (v4.2.2)
 - Bioconductor (v3.16)
